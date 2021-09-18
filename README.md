@@ -6,5 +6,5 @@
 - 👯 I’m looking to collaborate with **other content creators**
 - 💬 Ask me about **Flutter**
 - 📫 How to reach me: [Linkdin](https://www.linkedin.com/in/shehzad-raheem-162902171/)
-- ⚡ Fun fact: I am half finish , I like poetry and i've great interest in History...
+- ⚡ Fun fact: I play games and i've great interest in History
 
