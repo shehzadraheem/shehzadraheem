@@ -61,27 +61,4 @@ Senior Flutter developer with **4+ years** shipping production mobile apps for c
 
 **Integrations** — WebRTC · ZegoCloud · RevenueCat · Stripe · Google Maps · NFC · iBeacons
 
----
-
-### 📌 Featured projects
-
-| Project | What it is |
-|---|---|
-| [Quran-App](https://github.com/shehzadraheem/Quran-App) | Flutter Quran reader app ⭐ |
-| [Flutter_qibla_compass](https://github.com/shehzadraheem/Flutter_qibla_compass) | Qibla direction compass using device sensors |
-| [Muslim_Soul_Instagram_Clone](https://github.com/shehzadraheem/Muslim_Soul_Instagram_Clone) | Instagram-style social app UI in Flutter |
-| [HijriCalender](https://github.com/shehzadraheem/HijriCalender) | Hijri calendar app (Android/Java) |
-| [LaundryAPPUI](https://github.com/shehzadraheem/LaundryAPPUI) | Laundry service app UI (Android/Java) |
-
----
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shehzadraheem&show_icons=true&hide_border=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehzadraheem&layout=compact&hide_border=true" />
-</p>
-
----
-
 <p align="center">⚡ Fun fact: when I'm not coding, I'm gaming or reading history.</p>
