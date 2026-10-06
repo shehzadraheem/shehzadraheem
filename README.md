@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shehzadraheemflutterdeveloper/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.fiverr.com/shehzadraheem"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=shehzadraheem&color=02569B&style=for-the-badge&label=Profile+views" />
 </p>
 
